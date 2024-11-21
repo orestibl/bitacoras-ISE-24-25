@@ -52,6 +52,9 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 
 Una vez que hayas creado el Pull Request, el profesor revisará tu solicitud y, si todo está correcto, la aceptará. Cuando el Pull Request sea aprobado y fusionado, tu enlace aparecerá en el archivo `<practica-leccion>.md` (por ejemplo `P1-L0.md` para la lección 0 de la práctica 1) del repositorio `bitacoras-ISE-24-25` del profesor.
 
+### IMPORTANTE (solo para los sucesivos pull requests)
+
+Cada vez que vayas a hacer un pull requests tendrás que sincronizar previamente. Este paso es muy importante de cara a tener la versión más actualizada del repositorio base. Recuerda sincronizar justo antes de hacer el pull request, ya que de otra forma puede que haya cambios en el repositorio (por ejemplo, realizados por otros compañeros y validados por el profesor) que no tengas en tu fork, y por tanto, generar potenciales conflictos. Estos conflictos impedirán que el profesor apruebe tu pull request.
 
 ### Contacto
 
